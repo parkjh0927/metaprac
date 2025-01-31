@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>myapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>myapp</name>
 	<description>SpringBook_Chapter11_RESTful(Boot-Employees REST API)</description>
 	<url/>
